@@ -1,0 +1,1 @@
+An Online Food Booking System using Java (Servlets, JSP), HTML, CSS, and MySQL allows users to browse menus, add food to carts, and place orders. It includes user login, order tracking, and admin management. The backend handles orders via JDBC, while the frontend provides a responsive UI. Ideal for restaurant automation and online food delivery. 
